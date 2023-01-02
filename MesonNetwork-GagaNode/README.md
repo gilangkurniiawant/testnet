@@ -26,7 +26,7 @@ After that u can <i>CRTL + C</i>
 ## 3️⃣ Set Up your Token
 <img height="200" height="auto" src="https://i.ibb.co/qWrpbv9/3.jpg" alt="1" border="0" /></a>
 ```python
-./apps/gaganode/gaganode config set --token=YOUR_TOKEN
+./apps/gaganode/gaganode config set --token=nczxsnqkpwnaspvwvgqerlkb
 ```
 *Fill Node Token to <b><i>YOUR_TOKEN</i></b> <br>
 U can find it here : https://dashboard.gaganode.com/install_run
